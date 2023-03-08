@@ -1,7 +1,7 @@
 ---
 title: Alejandro Tovar-Garza
 role: Founder @ EnergyColab
-avatar_filename: foto-alex-reciente-2.png
+avatar_filename: 1669026748384.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
